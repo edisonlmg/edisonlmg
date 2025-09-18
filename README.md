@@ -42,6 +42,6 @@ Mi portafolio está enfocado en aplicar la ciencia de datos a mi área de experi
 
 ### 🌐 Contacta Conmigo
 * **Email:** emondragong@cip.org.pe
-* **LinkedIn:** [Link a tu perfil de LinkedIn]
-* **Twitter:** [Link a tu perfil de Twitter]
-* **Página web/Blog:** [Link a tu sitio web personal]
+* **LinkedIn:** https://www.linkedin.com/in/edison-mondragon-guzman/
+* **Twitter:** https://x.com/EdisonMondragon
+* **Página web/Blog:** https://www.opendataanalyzer.blog/
