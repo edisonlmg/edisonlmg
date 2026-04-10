@@ -1,22 +1,19 @@
-# 👋 ¡Hola! Soy Edison Mondragón.
+# 👋 Edison Mondragón, P.E.
 
-### Ingeniero Economista, Especialista en Seguimiento de Políticas Públicas y Análisis de Datos.
+### Economic Engineer | 🚀 Data Scientist | Data Extraction & Automation Expert
 
----
-
-### 🚀 Sobre Mí
-
-Mi trayectoria profesional se ha centrado en la auditoría y la gestión pública, donde he desarrollado un profundo entendimiento de los procesos de seguimiento y evaluación de proyectos de inversión. Durante 10 años, mi rol ha sido clave en la fiscalización de recursos y en la identificación de oportunidades de mejora en entidades del Sector Público.
-
-Consciente del potencial de los datos para optimizar la toma de decisiones, he complementado mi formación con especiaizaciones y certificaciones en **Ciencia de Datos, Python, SQL, PowerBI y Google Cloud Platform para el análisis de datos**. Mi objetivo es aplicar esta base técnica para abordar problemas complejos del sector público, creando soluciones que mejoren la eficiencia y la transparencia en la gestión de los recursos del Estado.
+I am a **Professional Economic Engineer** and **Data Scientist** with over 10 years of experience in the Peruvian public sector. I specialize in monitoring public policies and transforming complex data into actionable insights through advanced analytics.
 
 ---
 
-### 💻 Mis Habilidades
+### 💻 Technical Skills
 
-| Lenguajes de Programación | Herramientas y Plataformas | Habilidades Clave |
+| Data Extraction & AI | Processing & Modeling | Infrastructure & Visualization |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | Análisis de Datos |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/AI_Automation-412991?style=for-the-badge&logo=openai&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud_Computing-333333?style=for-the-badge&logo=cloud&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Web Scraping & APIs** | **Econometric Modeling** (R/Python) | **Business Intelligence** (PBI/Looker) |
+| **OCR & Document AI** | **Deep & Machine Learning** | **Data Architecture** (Local/Cloud) |
+| **Data Structuring** | **Statistical Analysis** | **Interactive Visualization** |
 
 ---
 
@@ -40,8 +37,7 @@ Mi portafolio está enfocado en aplicar la ciencia de datos a mi área de experi
 
 ---
 
-### 🌐 Contacta Conmigo
-* **Email:** emondragong@cip.org.pe
+### 🌐 Blog & Social Media
+* **Blog:** https://www.datopedia.org/
 * **LinkedIn:** https://www.linkedin.com/in/edison-mondragon-guzman/
 * **Twitter:** https://x.com/EdisonMondragon
-* **Página web/Blog:** https://www.opendataanalyzer.blog/
