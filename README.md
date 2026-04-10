@@ -15,16 +15,13 @@ I am a **Professional Economic Engineer** and **Data Scientist** with over 10 ye
 
 ---
 
-### ✨ Proyectos Destacados
+### ✨ Key Projects
 
-Mi portafolio está enfocado en aplicar la ciencia de datos a mi área de experiencia. Aquí hay algunos ejemplos de los tipos de proyectos en los que estoy trabajando o he completado.
+#### **Automated web data extraction for the Investment Tracking System form of the Ministry of Economy and Finance of Peru**
 
-#### **Análisis de la Eficiencia de la Inversión Pública Municipal**
-> Un análisis de datos para evaluar el impacto y la eficiencia de los proyectos de inversión en municipalidades. El objetivo es identificar patrones de gasto y proponer mejoras en la asignación de recursos.
->
-> **Tecnologías:** `Python (Pandas, Matplotlib)`, `SQL`, `Power BI`
->
-> - [Link a mi proyecto]([Enlace a tu repositorio])
+<a href="[https://github.com/usuario/repo](https://github.com/edisonlmg/webscraping-ssi-mef.git)">
+  <img src="./images/demo.png" width="400"/>
+</a>
 
 #### **Modelo Predictivo para la Detección de Irregularidades en Auditorías**
 > Un modelo de Machine Learning que utiliza datos de auditorías pasadas para predecir y detectar anomalías o patrones de riesgo que podrían indicar irregularidades en la gestión pública.
