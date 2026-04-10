@@ -4,7 +4,7 @@ I am a **Professional Economic Engineer** and **Data Scientist** with over 10 ye
 
 ---
 
-### 💻 Technical Skills
+## 💻 Technical Skills
 
 | Data Extraction & AI | Processing & Modeling | Infrastructure & Visualization |
 | :--- | :--- | :--- |
@@ -15,13 +15,19 @@ I am a **Professional Economic Engineer** and **Data Scientist** with over 10 ye
 
 ---
 
-### ✨ Key Projects
+## ✨ Key Projects
 
-#### **Automated web data extraction for the Investment Tracking System form of the Ministry of Economy and Finance of Peru**
+### **Automated web data extraction for the Investment Tracking System form of the Ministry of Economy and Finance of Peru**
 
-<a href="[https://github.com/usuario/repo](https://github.com/edisonlmg/webscraping-ssi-mef.git)">
-  <img src="./images/demo.png" width="400"/>
+<a href="https://github.com/edisonlmg/webscraping-ssi-mef.git">
+  <img src="./Gemini_Generated_Image_phh6uhphh6uhphh6.png" width="1200"/>
 </a>
+
+> A web scraping project built with Scrapy to extract and structure data from the Investment Tracking System (SSI, by its Spanish acronym) of Peru’s Ministry of Economy and Finance. The project automates data collection for analysis, monitoring, and visualization of public investment projects.
+> 
+> **Tecnologías:** `Python (Scrapy) (Pandas)`
+>
+> - [Link a mi proyecto](https://github.com/edisonlmg/webscraping-ssi-mef.git)
 
 #### **Modelo Predictivo para la Detección de Irregularidades en Auditorías**
 > Un modelo de Machine Learning que utiliza datos de auditorías pasadas para predecir y detectar anomalías o patrones de riesgo que podrían indicar irregularidades en la gestión pública.
