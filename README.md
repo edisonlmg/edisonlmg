@@ -1,8 +1,8 @@
 # 👋 Edison Mondragón, P.E.
 
-### Economic Engineer | 🚀 Data Scientist | Data Extraction & Automation Expert
+### 🧬 Data Scientist | ✅ Data Extraction & Automation Expert
 
-I am a **Professional Economic Engineer** and **Data Scientist** with over 10 years of experience in the Peruvian public sector. I specialize in monitoring public policies and transforming complex data into actionable insights through advanced analytics.
+I am a **Professional Economic Engineer** and **Data Scientist** with over 10 years of experience in monitoring public policies and transforming complex data into actionable insights through advanced analytics.
 
 ---
 
