@@ -24,8 +24,12 @@ I am a **Professional Economic Engineer** and **Data Scientist** with over 10 ye
 </a>
 
 > A web scraping project built with Scrapy to extract and structure data from the Investment Tracking System (SSI, by its Spanish acronym) of Peru’s Ministry of Economy and Finance. The project automates data collection for analysis, monitoring, and visualization of public investment projects.
+>
+> **Input:** A CSV file containing investment project codes.
 > 
-> **Tecnologías:** `Python (Scrapy) (Pandas)`
+> **Output:** Raw JSON files downloaded from the SSI system and processed CSV files that are cleaned, structured, and ready for analysis.
+> 
+> **Technologies:** `Python (Scrapy) (Pandas)`
 >
 > - [Link a mi proyecto](https://github.com/edisonlmg/webscraping-ssi-mef.git)
 
