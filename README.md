@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Edison Mondragón
 
-My primary interest lies in developing Machine Learning, Deep Learning, and data visualization projects to address public sector challenges. I focus on boosting effective governance through open government and efficiency in closing gaps in public services and infrastructure.
+My primary interest lies in developing Machine Learning, Deep Learning, and data visualization projects to address public sector challenges. I focus on boosting effective governance through open government and efficiency in public spending.
 
 ---
 
