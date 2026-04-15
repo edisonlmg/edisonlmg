@@ -2,6 +2,10 @@
 
 My primary interest lies in developing Machine Learning, Deep Learning, and data visualization projects to address public sector challenges. I focus on boosting effective governance through open government and efficiency in public spending.
 
+> **Currently:** Ombudsman's Office.
+>
+> **Previously:** Ministry of Economy and Finance | Comptroller General of the Republic | Central Reserve Bank.
+
 ---
 
 ## Technical Skills
