@@ -1,10 +1,10 @@
-# 👨🏻‍💻 Edison Mondragón
+# EDISON MONDRAGÓN
 
 My primary interest lies in developing Machine Learning, Deep Learning, and data visualization projects to address public sector challenges. I focus on boosting effective governance through open government and efficiency in public spending.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 | 1. Extraction & AI (The Input) | 2. Modeling & AI (The Core) | 3. Intelligence & BI (The Output) |
 | :--- | :--- | :--- |
@@ -15,9 +15,9 @@ My primary interest lies in developing Machine Learning, Deep Learning, and data
 
 ---
 
-## ✨ Key Projects
+## Key Projects
 
-### 📌 Overview
+### Overview
 
 - [webscraping-mef-ssi](#webscraping-mef-ssi) (Fetches files and parses HTML tables without page navigation)
 - [webscraping-sunat-ruc](#webscraping-sunat-ruc) (Extracts HTML tables with page navigation)
@@ -50,7 +50,7 @@ My primary interest lies in developing Machine Learning, Deep Learning, and data
 
 ---
 
-### 🌐 Blog & Social Media
+### Blog & Social Media
 * **Blog:** https://www.datopedia.org/
 * **LinkedIn:** https://www.linkedin.com/in/edison-mondragon-guzman/
 * **Twitter:** https://x.com/EdisonMondragon
